@@ -1,0 +1,1 @@
+java -jar ParserTest.jar ParserTestInput.txt ParserTestOutput.txt
